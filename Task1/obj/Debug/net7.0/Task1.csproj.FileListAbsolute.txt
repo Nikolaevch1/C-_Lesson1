@@ -1,0 +1,14 @@
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Lesson1/Task1/bin/Debug/net7.0/Task1
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Lesson1/Task1/bin/Debug/net7.0/Task1.deps.json
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Lesson1/Task1/bin/Debug/net7.0/Task1.runtimeconfig.json
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Lesson1/Task1/bin/Debug/net7.0/Task1.dll
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Lesson1/Task1/bin/Debug/net7.0/Task1.pdb
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Lesson1/Task1/obj/Debug/net7.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Lesson1/Task1/obj/Debug/net7.0/Task1.AssemblyInfoInputs.cache
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Lesson1/Task1/obj/Debug/net7.0/Task1.AssemblyInfo.cs
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Lesson1/Task1/obj/Debug/net7.0/Task1.csproj.CoreCompileInputs.cache
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Lesson1/Task1/obj/Debug/net7.0/Task1.dll
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Lesson1/Task1/obj/Debug/net7.0/refint/Task1.dll
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Lesson1/Task1/obj/Debug/net7.0/Task1.pdb
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Lesson1/Task1/obj/Debug/net7.0/Task1.genruntimeconfig.cache
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Lesson1/Task1/obj/Debug/net7.0/ref/Task1.dll
